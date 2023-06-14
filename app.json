@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ugurcankzu.skysense"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6686be9e-2ef7-42a0-86d5-6b7c85b28404"
+      }
+    },
+    "owner": "ugurcankzu"
   }
 }
